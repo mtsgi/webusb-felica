@@ -1,0 +1,20 @@
+{
+    "id": "nfcreader",
+    "name": "NFCリーダー",
+    "icon": "icon.png",
+    "version": "0.1",
+    "author": "mtsgi",
+    "support": {
+        "darkmode": true,
+        "resize": false,
+        "fullscreen": true,
+        "multiple": false
+    },
+    "size": {
+        "width": "400",
+        "height": ""
+    },
+    "view": "demo.html",
+    "script": "script.js",
+    "css": ""
+}
