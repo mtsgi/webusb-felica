@@ -1,16 +1,24 @@
-## nfcreader
+# nfcreader
 
-"nfcreader" is a **NFC Reader App** for [kit desktop system](https://github.com/mtsgi/kit) based on [saturday06/webusb-felica](https://github.com/saturday06/webusb-felica).
+"nfcreader" is a **NFC reader app** for kit desktop system based on saturday06/webusb-felica.
 
-### Installation
-You can clone or download the git repository to your kit directory and install by `app/install`.
+## Installation
 
-**OR...** You can also use `install` command on kish and install this as an **online app**.
+It is easy to install by using kpt.Type following command on kish and install.
+
+```sh
+kpt install nfcreader
+```
+
+Or, you can clone or download the git repository to your kit directory and install by `app/install`.
+
+Or, you can also use install command on kish and install this as an online app.
 
 ```sh
 🥧 install https://mtsgi.github.io/webusb-felica/
 ```
 
-### Application
-- App ID: `nfcreader`
+### Info
+
+- App ID: nfcreader
 - Using kaf v2 (Supporting kernel v0.2.1 or upper.)
